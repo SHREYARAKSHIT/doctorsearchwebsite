@@ -7,7 +7,7 @@
 }
 .navbg {
   background-color: #f3f7ff;
-  width: 1440px;
+  width: 1519px;
 }
 .btnbg {
   width: 810px;
@@ -92,7 +92,7 @@
 }
 .btn {
   top: 0;
-  left: 536px;
+  left: 615px;
   width: 810px;
 }
 .logobg {
@@ -126,7 +126,7 @@
 .logo {
   text-decoration: none;
   top: calc(50% - 49px);
-  left: calc(50% - 626px);
+  left: 94px;
   width: 156px;
   font-size: var(--font-size-11xl);
   color: var(--color-midnightblue-200);
@@ -135,7 +135,7 @@
   margin: 0 !important;
   top: 0;
   left: 0;
-  width: 1440px;
+  width: 1519px;
   flex-shrink: 0;
   z-index: 0;
 }
@@ -148,7 +148,7 @@
 .bannerbg {
   left: 0;
   background-color: #f4f7ff;
-  width: 1440px;
+  width: 1519px;
 }
 .banner-imagebg {
   left: 0.25px;
@@ -227,7 +227,7 @@
 .textbg {
   position: absolute;
   top: 0;
-  left: 881px;
+  left: 960px;
   width: 465px;
   height: 555px;
 }
@@ -358,7 +358,7 @@
 .servicebg {
   position: absolute;
   left: 0;
-  width: 1440px;
+  width: 1519px;
 }
 .banner {
   margin: 0 !important;
@@ -427,7 +427,7 @@
 }
 .getsol {
   top: 192px;
-  left: 1087px;
+  left: 1166px;
   width: 258.75px;
   height: 274px;
 }
@@ -528,6 +528,12 @@
   width: 75.18px;
   height: 64.17px;
 }
+.checkprofile{
+  left: 451.33px;
+}
+.doctor-serial{
+  left: 808.67px;
+}
 .searchdoc,
 .sertitle {
   position: absolute;
@@ -538,7 +544,7 @@
 }
 .sertitle {
   top: 81px;
-  left: 444px;
+  left: 479.5px;
   font-size: var(--font-size-18xl);
   display: flex;
   color: var(--color-black);
@@ -552,7 +558,7 @@
 .service {
   position: absolute;
   left: 0;
-  width: 1440px;
+  width: 1519px;
 }
 .service {
   margin: 0 !important;
@@ -650,7 +656,7 @@
 .seespecialistsbg {
   position: absolute;
   top: 0;
-  left: 726.75px;
+  left: 805.75px;
   width: 713.25px;
   height: 498px;
 }
@@ -724,7 +730,7 @@
 .footerbg {
   position: absolute;
   left: 0;
-  width: 1440px;
+  width: 1519px;
 }
 .bottom {
   margin: 0 !important;
@@ -744,7 +750,7 @@
   text-decoration: none;
   position: absolute;
   top: 396px;
-  left: 1321px;
+  left: 1400px;
   width: 25px;
   height: 25.03px;
   background-image: url(./public/instagramlogo@3x.png);
@@ -754,11 +760,11 @@
 }
 .facebooklogo,
 .twitterlogo {
-  left: 1250px;
+  left: 1329px;
   background-image: url(./public/twitterlogo@3x.png);
 }
 .facebooklogo {
-  left: 1179px;
+  left: 1258px;
   background-image: url(./public/facebooklogo@3x.png);
 }
 .footercopyright {
@@ -768,7 +774,6 @@
   font-size: var(--font-size-mini);
   display: flex;
   align-items: center;
-  width: 193px;
   height: 34px;
 }
 .help {
@@ -783,7 +788,7 @@
   text-decoration: none;
   position: absolute;
   top: 64px;
-  left: 1236px;
+  left: 1315px;
   font-weight: 700;
   display: flex;
   align-items: center;
@@ -793,7 +798,7 @@
 }
 .footerabout {
   top: 64px;
-  left: 944px;
+  left: 996.67px;
   width: 194px;
   height: 196px;
   color: inherit;
@@ -809,7 +814,7 @@
 }
 .footerservices {
   top: 64px;
-  left: 649px;
+  left: 675.33px;
   width: 197px;
   height: 246px;
   color: inherit;
@@ -829,7 +834,7 @@
   margin: 0 !important;
   top: 1691px;
   left: 0;
-  width: 1440px;
+  width: 1519px;
   height: 500px;
   flex-shrink: 0;
   z-index: 4;
